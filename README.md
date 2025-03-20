@@ -1,4 +1,5 @@
-### **GitHub Portfolio - Pavan Bhat**  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+Pavan+Bhat!;AI+%7C+ML+%7C+Full+Stack+Developer;Building+Awesome+Projects!)
+
 📧 pavanbhatsmg@gmail.com | 📍 Shivamogga  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PavanBhat-blue)](https://linkedin.com/in/pavanbhatav)  
 [![GitHub](https://img.shields.io/badge/GitHub-PavanBhatt07-black)](https://github.com/PavanBhatt07)  
