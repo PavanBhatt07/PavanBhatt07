@@ -3,6 +3,7 @@
 📧 pavanbhatsmg@gmail.com | 📍 Shivamogga  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PavanBhat-blue)](https://linkedin.com/in/pavanbhatav)  
 [![GitHub](https://img.shields.io/badge/GitHub-PavanBhatt07-black)](https://github.com/PavanBhatt07)  
+🔗 Check out my portfolio: [pavanbhatportfolio.vercel.app](https://pavanbhatportfolio.vercel.app/)
 
 ---
 
