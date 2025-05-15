@@ -1,4 +1,5 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+Pavan+Bhat!;Android+%7C+Development+%7C+Full+Stack+Developer;Building+Awesome+Projects!)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello%2C+I'm+Pavan+Bhat!;Android+%7C+Development;Full+Stack+Developer;Building+Awesome+Projects!)
+
 
 📧 pavanbhatsmg@gmail.com | 📍 Shivamogga  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PavanBhat-blue)](https://linkedin.com/in/pavanbhatav)  
